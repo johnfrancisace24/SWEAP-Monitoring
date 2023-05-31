@@ -121,7 +121,7 @@
     <value>17, 17</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>25</value>
+    <value>77</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="Guna2Panel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -11603,7 +11603,7 @@
   <data name="Guna2Button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
-        qQAAAKkBq7NRIgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFtSURBVFhH3de9
+        qAAAAKgBefSzxgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFtSURBVFhH3de9
         SwMxGMfxs0KHKogO6ubgriKCTm7OKvhXiGsHl9JFXYuD4OTL6uokCKJ/ga/gpC7OrqJ4fp/6REJIoTmP
         BPvA57jmcsmPXuklWZ7nbdQsTvACaQjxiWu0MGzG7MbPIcvW8QF70KJeMe1O1InUFN4hn75whmagHTzC
         hJBvo+qb0CV1AHPjgq9Tt6hta6xlXx+X1L3ecOXrEIIah3mUW74+Lqk3vaHl6xCKetbxDn3XXVI9F+BG
